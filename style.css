@@ -8,7 +8,7 @@ body{
  background-size: cover;
  background-position: center;
  padding: 0px;
- margin-bottom: 100px;
+ margin-bottom: 200px;
 }
 
 .donation{
@@ -39,5 +39,24 @@ body{
 }
 .money-description{
     text-align: center;
+    margin-bottom: 15px;
+}
+.row-style{
+    display: flex;
+}
+.style{
+    width: 30%;
+
+   margin-left: 5%;
+   margin-right: 2%;
+   padding: 2%;
+   box-shadow: 5px 5px 5px 5px rgb(76, 73, 73);
+}
+.style img{
+    width: 35%;
+    
+}
+.plan-of-donate{
+    padding-top: 120px;
 }
 
