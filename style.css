@@ -4,11 +4,12 @@ body{
 .donation-interface{
     background-image: url(donation11.jpg);
     height: 100vh;
-    width: 100%;
+    width: 120%;
  background-size: cover;
  background-position: center;
  padding: 0px;
  margin-bottom: 200px;
+ padding: 0px;
 }
 
 .donation{
