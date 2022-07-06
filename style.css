@@ -4,7 +4,7 @@ body{
 .donation-interface{
     background-image: url(donation11.jpg);
     height: 100vh;
-    width: 120%;
+    width: 100%;
  background-size: cover;
  background-position: center;
  padding: 0px;
@@ -28,6 +28,14 @@ body{
     color: white;
     font-weight: 700;
    
+}
+.donation-btn-2{
+    padding: 10px 25px;
+    border-radius: 10px;
+    background-image: linear-gradient(red, orange);
+    color: white;
+    font-weight: 700;
+    margin-left: -5px;
 }
 .money{
     display: flex;
@@ -96,9 +104,13 @@ body{
 .update-portion{
     text-align: center;
     margin-top: 50px;
+    background-color: bisque;
+    background-size: cover;
+    height: 20vh;
 }
 .footer-portion{
     background-color: black;
     color: brown;
     text-align: center;
     margin-top: 100px;
+}
