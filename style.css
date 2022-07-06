@@ -15,8 +15,8 @@ body{
 .donation{
     text-align: center;
    padding-top: 150px;
-   color: black;
    font-weight: 700px;
+   color: black;
 
 }
 .donation-btn{
@@ -44,10 +44,10 @@ body{
    
 
 }
-.row-style{
+.style{
     display: flex;
 }
-.style1{
+.style-left{
     width: 30%;
     margin-left: 5%;
    margin-right: 2%;
@@ -55,7 +55,7 @@ body{
    box-shadow: 5px 5px 5px 5px rgb(76, 73, 73);
    background-color: beige;
 }
-.style2{
+.style-middle{
     width: 30%;
     margin-left: 5%;
    margin-right: 2%;
@@ -63,7 +63,7 @@ body{
    box-shadow: 5px 5px 5px 5px rgb(76, 73, 73);
    background-color: darkgray;
 }
-.style3{
+.style-right{
     width: 30%;
     margin-left: 5%;
    margin-right: 2%;
@@ -71,7 +71,7 @@ body{
    box-shadow: 5px 5px 5px 5px rgb(76, 73, 73);
    background-color: wheat;
 }
-.position-picture{
+.picture-position{
     width: 35%;
     
 }
