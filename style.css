@@ -40,24 +40,65 @@ body{
 }
 .money-description{
     text-align: center;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
+   
+
 }
 .row-style{
     display: flex;
 }
-.style{
+.style1{
     width: 30%;
-
-   margin-left: 5%;
+    margin-left: 5%;
    margin-right: 2%;
    padding: 2%;
    box-shadow: 5px 5px 5px 5px rgb(76, 73, 73);
+   background-color: beige;
 }
-.style img{
+.style2{
+    width: 30%;
+    margin-left: 5%;
+   margin-right: 2%;
+   padding: 2%;
+   box-shadow: 5px 5px 5px 5px rgb(76, 73, 73);
+   background-color: darkgray;
+}
+.style3{
+    width: 30%;
+    margin-left: 5%;
+   margin-right: 2%;
+   padding: 2%;
+   box-shadow: 5px 5px 5px 5px rgb(76, 73, 73);
+   background-color: wheat;
+}
+.position-picture{
     width: 35%;
     
 }
-.plan-of-donate{
+.plan-of-donation{
     padding-top: 120px;
+    margin-bottom: 200px;
 }
-
+.set-position{
+    width: 50%;
+    padding: 3%;
+}
+.set-position img{
+    width: 80%;
+}
+.email-box{
+    background-color: azure;
+    height:35px;
+    border: 1px solid;
+    border-radius: 15px;
+    padding: 10px;
+}
+.update-portion{
+    text-align: center;
+    margin-top: 50px;
+}
+.footer-portion{
+    background-color: black;
+    color: brown;
+    text-align: center;
+    margin-top: 100px;
